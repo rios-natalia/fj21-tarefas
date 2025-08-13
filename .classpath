@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/commons-dbcp2-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/hibernate-validator-6.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/javax.el-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/javax.servlet.jsp.jstl-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/spring-web-7.0.0-M7.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/javax.annotation_1.2.0.v201401042248.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/javax.el_2.2.0.v201303151357.jar"/>
+	<classpathentry kind="lib" path="/home/natalia/Downloads/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
